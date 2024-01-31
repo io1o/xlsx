@@ -8,10 +8,10 @@ import (
 	"unsafe"
 	_ "unsafe"
 
+	"github.com/carmel/gooxml/schema/soo/sml"
+	"github.com/carmel/gooxml/spreadsheet"
+	"github.com/carmel/gooxml/spreadsheet/reference"
 	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/sml"
-	"github.com/unidoc/unioffice/spreadsheet"
-	"github.com/unidoc/unioffice/spreadsheet/reference"
 )
 
 // RowCells returns a slice of cells.  The cells can be manipulated, but appending
@@ -145,7 +145,7 @@ func hackTestV() {
 	}
 }
 
-//go:linkname _gdag github.com/unidoc/unioffice/spreadsheet._gdag
+//go:linkname _gdag github.com/carmel/gooxml/spreadsheet._gdag
 var _gdag bool
 
 func init() {

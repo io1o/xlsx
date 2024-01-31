@@ -600,8 +600,8 @@ github.com/unidoc/pkcs7 v0.0.0-20200411230602-d883fd70d1df/go.mod h1:UEzOZUEpJfD
 github.com/unidoc/pkcs7 v0.1.0/go.mod h1:UEzOZUEpJfDpywVJMUT8QiugqEZC29pDq7kdIZhWCr8=
 github.com/unidoc/timestamp v0.0.0-20200412005513-91597fd3793a/go.mod h1:j+qMWZVpZFTvDey3zxUkSgPJZEX33tDgU/QIA0IzCUw=
 github.com/unidoc/unichart v0.1.0/go.mod h1:9sJXeqxIIsU2D07tmhpDMoND0mBFRGfKBJnXZMsJnzk=
-github.com/unidoc/unioffice v1.26.0 h1:ODpNNqucZZXHQpnF/ZKmBQNDMuj0ynfXJTVOme2o13U=
-github.com/unidoc/unioffice v1.26.0/go.mod h1:FoBsxjI/Lqy+2xrQiJMN6/bGdEWlPcYywiZ3aX5Vob0=
+github.com/carmel/gooxml v1.26.0 h1:ODpNNqucZZXHQpnF/ZKmBQNDMuj0ynfXJTVOme2o13U=
+github.com/carmel/gooxml v1.26.0/go.mod h1:FoBsxjI/Lqy+2xrQiJMN6/bGdEWlPcYywiZ3aX5Vob0=
 github.com/unidoc/unipdf/v3 v3.37.0/go.mod h1:obDrJyvay9tDiCMKUhzqffm0ZEwtQGWJTcY2QLx1U8w=
 github.com/unidoc/unitype v0.2.1/go.mod h1:mafyug7zYmDOusqa7G0dJV45qp4b6TDAN+pHN7ZUIBU=
 github.com/unidoc/unitype v0.4.0/go.mod h1:HV5zuUeqMKA4QgYQq3KDlJY/P96XF90BQB+6czK6LVA=

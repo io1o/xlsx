@@ -5,7 +5,7 @@ import (
 	"mime"
 	"net/http"
 
-	"github.com/unidoc/unioffice/spreadsheet"
+	"github.com/carmel/gooxml/spreadsheet"
 )
 
 // WithUpload defines the input excel file for reading.

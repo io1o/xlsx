@@ -12,9 +12,9 @@ import (
 
 	"github.com/araddon/dateparse"
 	"github.com/bingoohuang/xlsx/pkg/cast"
+	"github.com/carmel/gooxml/spreadsheet"
+	"github.com/carmel/gooxml/spreadsheet/reference"
 	perr "github.com/pkg/errors"
-	"github.com/unidoc/unioffice/spreadsheet"
-	"github.com/unidoc/unioffice/spreadsheet/reference"
 )
 
 // Xlsx is the structure for xlsx processing.
