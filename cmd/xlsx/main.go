@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/bingoohuang/xlsx"
 	"github.com/carmel/gooxml/spreadsheet"
+	"github.com/io1o/xlsx"
 )
 
 func main() {

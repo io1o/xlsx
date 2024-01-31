@@ -11,9 +11,9 @@ import (
 	"time"
 
 	"github.com/araddon/dateparse"
-	"github.com/bingoohuang/xlsx/pkg/cast"
 	"github.com/carmel/gooxml/spreadsheet"
 	"github.com/carmel/gooxml/spreadsheet/reference"
+	"github.com/io1o/xlsx/pkg/cast"
 	perr "github.com/pkg/errors"
 )
 

@@ -7,8 +7,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/bingoohuang/xlsx"
-	"github.com/bingoohuang/xlsx/pkg/upload"
+	"github.com/io1o/xlsx"
+	"github.com/io1o/xlsx/pkg/upload"
 	"github.com/stretchr/testify/assert"
 )
 
